@@ -1,0 +1,7 @@
+{
+  "name": "Auth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
