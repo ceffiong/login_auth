@@ -1,8 +1,8 @@
 This repo contain source codes for a Ionic-React Login Authentication App with RESTful API.
 
-The tutorial is available on medium: [Add medium link]
+The tutorial is available on medium: https://medium.com/@ceffiong/ionic-react-login-authentication-with-restful-api-79352883b9f3
 
-You can view the running application on Youtube: [Add youtube link]
+You can view the running application on Youtube: https://www.youtube.com/watch?v=CF1XrKWgess
 
 Available Scripts
 In the project directory, you can run:
